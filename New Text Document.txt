@@ -3,3 +3,5 @@ ini commit dari github
 ini commit dari github juga
 
 ini commit dari vs code aja
+
+ini commit dari vs code utk uji coba git fetch
